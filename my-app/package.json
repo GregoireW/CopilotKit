@@ -12,6 +12,7 @@
     "@copilotkit/react-core": "workspace:*",
     "@copilotkit/react-ui": "workspace:*",
     "@copilotkit/runtime": "workspace:*",
+    "react-hook-form": "^7.71.1",
     "next": "16.1.2",
     "react": "19.2.3",
     "react-dom": "19.2.3"
